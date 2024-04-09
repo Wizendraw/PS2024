@@ -1,0 +1,14 @@
+C:\Users\Wizendraw\source\repos\PS\PS\bin\Debug\net8.0\Welcome.exe
+C:\Users\Wizendraw\source\repos\PS\PS\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\Wizendraw\source\repos\PS\PS\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\Wizendraw\source\repos\PS\PS\bin\Debug\net8.0\Welcome.dll
+C:\Users\Wizendraw\source\repos\PS\PS\bin\Debug\net8.0\Welcome.pdb
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.dll
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.pdb
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\Wizendraw\source\repos\PS\PS\obj\Debug\net8.0\ref\Welcome.dll
